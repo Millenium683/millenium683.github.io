@@ -1,4 +1,6 @@
-﻿# NIRD Quest
+#Lien vers le site de la nuit de l'info: [ICI](./apps/next-app/app/page.tsx)
+
+# NIRD Quest
 
 Plateforme gamifiée pour promouvoir le **Numérique Inclusif, Responsable et Durable** à travers des quêtes, missions et contenus pédagogiques.
 
